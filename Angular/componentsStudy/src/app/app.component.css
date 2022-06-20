@@ -27,6 +27,19 @@
 
  .buttons{
     display: flex;
-  justify-content: center;
+    justify-content: center;
+}
+
+.warning{
+  color: red;
 }
   
+.success{
+  color: rgb(31, 179, 31);
+}
+
+.server{
+  font: status-bar;
+  font-size: medium;
+  text-align: center;
+}
